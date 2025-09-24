@@ -1,0 +1,16 @@
+device_id,firewall,device_type,OS,vulnerabilities,bandwidth,latency,secure
+D1,0,Server,RTOS,49,368,2,0
+D2,1,Router,Windows,12,735,51,1
+D3,1,PC,Linux,18,597,54,1
+D4,1,Printer,Windows,23,268,40,0
+D5,0,Switch,Linux,20,863,46,0
+D6,1,Router,RTOS,7,929,64,1
+D7,0,Printer,Linux,7,121,50,0
+D8,1,PC,Windows,14,520,9,1
+D9,1,Laptop,Firmware,0,709,44,1
+D10,0,Printer,Windows,42,363,46,0
+D11,1,Server,RTOS,6,356,70,1
+D12,1,Switch,Windows,4,495,14,1
+D13,0,Server,Linux,25,70,53,0
+D14,0,Router,MacOS,8,907,76,0
+D15,0,Laptop,Firmware,10,129,65,0
